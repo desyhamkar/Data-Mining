@@ -1,9 +1,9 @@
 #Bq Desy Hardianti
 
 #Task 1: Write a R program to create a vector of a specified type and length. Create vector of numeric, complex, logical and  character types of length 10.
-A<- c(1,2,3,4,5)
-typeof(A)
-length(A)
+a <- c(1,2,3,4,5)
+typeof(a)
+length(a)
 
 #logical
 B<- c(T,T,T,T,T,F,F,F,F,F)
